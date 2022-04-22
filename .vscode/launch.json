@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/004 - Cross Sum/bin/Debug/net6.0/004 - Cross Sum.dll",
+            "program": "${workspaceFolder}/007 - CP Classes/bin/Debug/net6.0/007 - CP Classes.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/004 - Cross Sum",
+            "cwd": "${workspaceFolder}/007 - CP Classes",
             "console": "internalConsole",
             "stopAtEntry": false
         },

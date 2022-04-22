@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/004 - Cross Sum/004 - Cross Sum.csproj",
+                "${workspaceFolder}/007 - CP Classes/007 - CP Classes.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/004 - Cross Sum/004 - Cross Sum.csproj",
+                "${workspaceFolder}/007 - CP Classes/007 - CP Classes.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/004 - Cross Sum/004 - Cross Sum.csproj"
+                "${workspaceFolder}/007 - CP Classes/007 - CP Classes.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
