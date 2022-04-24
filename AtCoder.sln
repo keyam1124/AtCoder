@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007 - CP Classes", "007 - C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010 - Score Sum Queries", "010 - Score Sum Queries\010 - Score Sum Queries.csproj", "{5F78A517-8538-490C-A015-03387E2A6677}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 - We Used to Sing a Song Together", "014 - We Used to Sing a Song Together\014 - We Used to Sing a Song Together.csproj", "{48DF08E8-035D-40DF-AADD-F3D924BDC9FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "014 - We Used to Sing a Song Together", "014 - We Used to Sing a Song Together\014 - We Used to Sing a Song Together.csproj", "{48DF08E8-035D-40DF-AADD-F3D924BDC9FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{13F34103-EB8D-4F83-BBDC-FF86DA9D9C0D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
