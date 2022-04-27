@@ -15,3 +15,4 @@
   - [022 - Cubic Cake（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_v)
 - 20220427
   - [024 - Select +／- One（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_x)
+  - [027 - Sign Up Requests （★2）](https://atcoder.jp/contests/typical90/tasks/typical90_aa)

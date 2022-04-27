@@ -24,6 +24,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "022 - Cubic Cake", "022 - C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024 - Select +／- One", "024 - Select +／- One\024 - Select +／- One.csproj", "{FF14A8E8-E85B-4CAC-B74D-3A9E94A39828}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027 - Sign Up Requests", "027 - Sign Up Requests\027 - Sign Up Requests.csproj", "{C5A2ED1A-ECB9-4490-A261-ADBFF8C93626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{FF14A8E8-E85B-4CAC-B74D-3A9E94A39828}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF14A8E8-E85B-4CAC-B74D-3A9E94A39828}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF14A8E8-E85B-4CAC-B74D-3A9E94A39828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A2ED1A-ECB9-4490-A261-ADBFF8C93626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A2ED1A-ECB9-4490-A261-ADBFF8C93626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A2ED1A-ECB9-4490-A261-ADBFF8C93626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A2ED1A-ECB9-4490-A261-ADBFF8C93626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
