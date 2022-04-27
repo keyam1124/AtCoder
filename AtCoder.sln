@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024 - Select +／- One", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027 - Sign Up Requests", "027 - Sign Up Requests\027 - Sign Up Requests.csproj", "{C5A2ED1A-ECB9-4490-A261-ADBFF8C93626}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033 - Not Too Bright（★2）", "033 - Not Too Bright（★2）\033 - Not Too Bright（★2）.csproj", "{5EC17C61-F79D-4515-A595-5FE850A77796}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{C5A2ED1A-ECB9-4490-A261-ADBFF8C93626}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A2ED1A-ECB9-4490-A261-ADBFF8C93626}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A2ED1A-ECB9-4490-A261-ADBFF8C93626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC17C61-F79D-4515-A595-5FE850A77796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC17C61-F79D-4515-A595-5FE850A77796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC17C61-F79D-4515-A595-5FE850A77796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC17C61-F79D-4515-A595-5FE850A77796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
