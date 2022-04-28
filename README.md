@@ -16,3 +16,5 @@
 - 20220427
   - [024 - Select +／- One（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_x)
   - [027 - Sign Up Requests （★2）](https://atcoder.jp/contests/typical90/tasks/typical90_aa)
+- 20220428
+  - [038 - Large LCM（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_al)
