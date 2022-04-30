@@ -30,7 +30,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "033 - Not Too Bright", "033
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "038 - Large LCM", "038 - Large LCM\038 - Large LCM.csproj", "{4957F871-395D-41FD-93CC-7D77D088B3FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044 - Shift and Swapping", "044 - Shift and Swapping\044 - Shift and Swapping.csproj", "{D914316A-352A-4D29-BDD0-F3411026BDDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044 - Shift and Swapping", "044 - Shift and Swapping\044 - Shift and Swapping.csproj", "{D914316A-352A-4D29-BDD0-F3411026BDDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046 - I Love 46", "046 - I Love 46\046 - I Love 46.csproj", "{1806AD22-1940-4853-8D5F-B577E40BA463}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +88,10 @@ Global
 		{D914316A-352A-4D29-BDD0-F3411026BDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D914316A-352A-4D29-BDD0-F3411026BDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D914316A-352A-4D29-BDD0-F3411026BDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1806AD22-1940-4853-8D5F-B577E40BA463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1806AD22-1940-4853-8D5F-B577E40BA463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1806AD22-1940-4853-8D5F-B577E40BA463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1806AD22-1940-4853-8D5F-B577E40BA463}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

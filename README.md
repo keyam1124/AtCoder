@@ -18,3 +18,7 @@
   - [027 - Sign Up Requests （★2）](https://atcoder.jp/contests/typical90/tasks/typical90_aa)
 - 20220428
   - [038 - Large LCM（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_al)
+- 20220429
+  - [044 - Shift and Swapping（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_ar)
+- 20220430
+  - [046 - I Love 46（★3）](https://atcoder.jp/contests/typical90/tasks/typical90_at)
